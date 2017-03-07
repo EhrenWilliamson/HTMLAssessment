@@ -6,8 +6,13 @@
  font-weight: bold;
  border-style: dashed;
  border-color: red;
- color: green;
- text-align:center;
+}
+td {
+  text-align: center;
+}
+thead{
+  font-weight: bold;
+  color: green;
 }
 ul {
     list-style-type: square;
